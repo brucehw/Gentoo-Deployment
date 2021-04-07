@@ -6,7 +6,7 @@
 feh --bg-fill ~/Pictures/iPhone_12_mini_CAD.JPG
 compton &
 
-# HIde mouse cursor after 3s of inactivity
+# Hide mouse cursor after 3s of inactivity
 unclutter -idle 3 &
 xrdb ~/.Xresources &
 
